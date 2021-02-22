@@ -1,0 +1,48 @@
+body {
+    background-color: rgba(255, 255, 58, 0.432);
+}
+
+.titulo{
+    text-align: center;
+}
+
+#parrafo{
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+}
+
+#listas{
+    display: flex;
+    justify-content: center;
+}
+.pelis{
+    background-color: cornsilk;
+    float: left;
+    width: 200px;
+    height: 100px;
+}
+
+.canciones{
+    background-color: dimgray;
+    float: left;
+    width: 200px;
+    height: 100px;
+}
+
+.personajes{
+    background-color: cornsilk;
+    float: left;
+    width: 200px;
+    height: 100px;
+}
+
+ul, ol{
+    font-weight: bold;
+    color: darkblue;
+    font-size: small;
+}
+
+li {
+    color: black;
+}
